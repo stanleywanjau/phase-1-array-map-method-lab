@@ -26,5 +26,5 @@ const titleCased = () => {
       });
       return titleCasedTutorials;
   }
-
+console.log(titleCased())
   
